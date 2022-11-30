@@ -17,6 +17,9 @@
     <title>Deneme Thetabetaplays Link Hub</title>
   </head>
   <body>
+    <?php
+    echo "sssss";
+    ?>
     <div class="container">
       <div class="header">
         <img src="img/logo.png" alt="" />
@@ -38,19 +41,5 @@
       </div>
     </div>
 
-    
-<p>Click on this paragraph.</p>
-
-<script src="test.js"></script>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
-<script>
-$(document).ready(function(){
-  alert("asd");
-  $("p").click(function(){
-    alert("The paragraph was clicked.");
-  });
-});
-</script>
   </body>
 </html>

@@ -1,6 +1,6 @@
 {
-  "name": "Thetabetaplays Link Hub",
-  "description": "A Link hub to reach Thetabetaplays Content ",
+  "name": "Yasin Test",
+  "description": "Bu bir deneme eklentisidir",
   "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
@@ -14,4 +14,6 @@
     "default_icon": "icon_16.png",
     "default_popup": "popup.html"
   }
+
+  
 }
